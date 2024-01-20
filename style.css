@@ -1,0 +1,25 @@
+body {
+    background-color: #000000;
+    color:#fcd600
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+}
+li {
+    display: inline-flex;
+}
+
+li a {
+    color: rgb(0, 0, 0);
+    display: block;
+    text-align:center ;
+    padding: 14px 16px;
+    text-decoration:none;
+}
+
+li a:hover {
+    background-color: #f8f400;
+}
